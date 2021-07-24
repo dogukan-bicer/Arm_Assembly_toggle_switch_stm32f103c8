@@ -1,5 +1,5 @@
 							   EXPORT Ana_Program
-
+;PB1 giris Pa1 cıkıs
 Delay_suresi                   EQU 0x30D40;8mhz/3(clock sinyali)=2.333.333=0x239A95 (1sn) suanki delay 30D40=200000 yaklasik 87ms
 RCC_APB2ENR                    EQU 0x40021018	
 
